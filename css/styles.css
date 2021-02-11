@@ -48,9 +48,18 @@ nav a {
     text-decoration: none;
     color: #707070;
     font-weight: 700;
+    padding: .25em 0;
 }
 
 nav a:hover,
 nav a:focus {
     color: #1792d2;
+}
+
+.current-page {
+    border-bottom: 1px solid #707070
+}
+
+.current-page:hover {
+    color: #707070;
 }
