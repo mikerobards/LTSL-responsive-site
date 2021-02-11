@@ -1,0 +1,42 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #f8f8f8;
+}
+
+.site-title {
+    font-family: 'Lora', serif;
+    text-align: center;
+    font-size: 3.375rem;
+    color: #143774;
+}
+
+.subtitle {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1rem;
+}
+/* 
+nav {
+    font-size: 1rem;
+    color: #707070;  
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+} */
+
+nav ul {
+
+}
+
+nav li {
+
+}
+
+nav a {
+
+}
+
+nav a:hover {
+    
+}
