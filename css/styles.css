@@ -24,8 +24,18 @@ h1 {
 
 }
 
+.conatiner {
+    width: 90%;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.container-nav {
+    display: flex;
+    justify-content: space-between;
+}
+
 header {
-    text-align: center;
     background-color: #f8f8f8;
     padding: 2em 0;
 }
@@ -39,9 +49,7 @@ nav ul {
 }
 
 nav li {
-    margin: 0 1em;
-    font-size: 1rem;
-    color: #707070;
+    margin-left: 2em;
 }
 
 nav a {
