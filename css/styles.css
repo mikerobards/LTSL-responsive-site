@@ -68,7 +68,9 @@ strong {
 
 }
 
-
+.article-info {
+  margin: 2em 0;
+}
 
 
 /* layout */
@@ -139,15 +141,7 @@ nav a:focus {
   color: #707070;
 }
 
-/* @media (max-width: 675px) {
-  .container-nav {
-    flex-direction: column;
-  }
-
-  header {
-    text-align: center;
-  }
-
+@media (max-width: 675px) {
   nav ul {
     flex-direction: column;
   }
@@ -155,4 +149,12 @@ nav a:focus {
   nav li {
     margin: 0.5em 0;
   }
-} */
+}
+
+/* articles  */
+
+.article-featured {
+  border-bottom: #707070 1px solid;
+  padding-bottom: 2em;
+  margin-bottom: 2em;
+}
