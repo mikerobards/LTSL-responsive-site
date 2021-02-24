@@ -10,6 +10,13 @@ img {
     display: block;
 }
 
+.image-full {
+  max-height: 300px;
+  width: 100%;
+  object-fit: cover;
+  margin-bottom: 2em;
+}
+
 /* typography */
 
 h1,
@@ -26,8 +33,9 @@ h1 {
   margin: 0;
 }
 
+h3,
 a {
-    color: #1792d2;
+  color: #1792d2;
 }
 
 a:hover,
@@ -83,6 +91,9 @@ strong {
   font-weight: 700;
 }
 
+.widget-recent-post-title {
+  color: #143774;
+}
 
 /* layout */
 
