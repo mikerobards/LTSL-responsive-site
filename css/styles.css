@@ -70,6 +70,8 @@ strong {
     color: #1792d2;
     text-decoration: none;
     font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
 }
 
 .article-read-more:hover,
@@ -92,6 +94,7 @@ strong {
 .widget-title {
   font-family: 'Ubuntu', sans-serif;
   font-weight: 700;
+  letter-spacing: 1.5px;
 }
 
 .widget-recent-post-title {
@@ -160,6 +163,8 @@ nav a {
   text-decoration: none;
   color: #707070;
   font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
   padding: 0.25em 0;
 }
 
